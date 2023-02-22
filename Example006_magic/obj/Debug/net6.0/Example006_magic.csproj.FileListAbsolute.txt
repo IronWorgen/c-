@@ -1,0 +1,15 @@
+D:\Программирование\C#\GB\Examples\Example006_magic\bin\Debug\net6.0\Example006_magic.exe
+D:\Программирование\C#\GB\Examples\Example006_magic\bin\Debug\net6.0\Example006_magic.deps.json
+D:\Программирование\C#\GB\Examples\Example006_magic\bin\Debug\net6.0\Example006_magic.runtimeconfig.json
+D:\Программирование\C#\GB\Examples\Example006_magic\bin\Debug\net6.0\Example006_magic.dll
+D:\Программирование\C#\GB\Examples\Example006_magic\bin\Debug\net6.0\Example006_magic.pdb
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\Example006_magic.csproj.AssemblyReference.cache
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\Example006_magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\Example006_magic.AssemblyInfoInputs.cache
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\Example006_magic.AssemblyInfo.cs
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\Example006_magic.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\Example006_magic.dll
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\refint\Example006_magic.dll
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\Example006_magic.pdb
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\Example006_magic.genruntimeconfig.cache
+D:\Программирование\C#\GB\Examples\Example006_magic\obj\Debug\net6.0\ref\Example006_magic.dll
