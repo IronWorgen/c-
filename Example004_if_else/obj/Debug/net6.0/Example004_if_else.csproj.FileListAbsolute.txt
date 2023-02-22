@@ -1,0 +1,15 @@
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\Example004_if_else.csproj.AssemblyReference.cache
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\Example004_if_else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\Example004_if_else.AssemblyInfoInputs.cache
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\Example004_if_else.AssemblyInfo.cs
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\Example004_if_else.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\GB\Examples\Example004_if_else\bin\Debug\net6.0\Example004_if_else.exe
+D:\Программирование\C#\GB\Examples\Example004_if_else\bin\Debug\net6.0\Example004_if_else.deps.json
+D:\Программирование\C#\GB\Examples\Example004_if_else\bin\Debug\net6.0\Example004_if_else.runtimeconfig.json
+D:\Программирование\C#\GB\Examples\Example004_if_else\bin\Debug\net6.0\Example004_if_else.dll
+D:\Программирование\C#\GB\Examples\Example004_if_else\bin\Debug\net6.0\Example004_if_else.pdb
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\Example004_if_else.dll
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\refint\Example004_if_else.dll
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\Example004_if_else.pdb
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\Example004_if_else.genruntimeconfig.cache
+D:\Программирование\C#\GB\Examples\Example004_if_else\obj\Debug\net6.0\ref\Example004_if_else.dll
