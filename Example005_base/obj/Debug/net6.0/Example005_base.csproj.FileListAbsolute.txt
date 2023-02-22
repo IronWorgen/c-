@@ -1,0 +1,15 @@
+D:\Программирование\C#\GB\Examples\Example005_base\bin\Debug\net6.0\Example005_base.exe
+D:\Программирование\C#\GB\Examples\Example005_base\bin\Debug\net6.0\Example005_base.deps.json
+D:\Программирование\C#\GB\Examples\Example005_base\bin\Debug\net6.0\Example005_base.runtimeconfig.json
+D:\Программирование\C#\GB\Examples\Example005_base\bin\Debug\net6.0\Example005_base.dll
+D:\Программирование\C#\GB\Examples\Example005_base\bin\Debug\net6.0\Example005_base.pdb
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\Example005_base.csproj.AssemblyReference.cache
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\Example005_base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\Example005_base.AssemblyInfoInputs.cache
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\Example005_base.AssemblyInfo.cs
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\Example005_base.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\Example005_base.dll
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\refint\Example005_base.dll
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\Example005_base.pdb
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\Example005_base.genruntimeconfig.cache
+D:\Программирование\C#\GB\Examples\Example005_base\obj\Debug\net6.0\ref\Example005_base.dll
